@@ -1,7 +1,7 @@
 # Antispoof-dacon
 
 ---
-# Project Directory Structure
+## Project Directory Structure
 ```plaintext
 main/
 ├── submit_code/
