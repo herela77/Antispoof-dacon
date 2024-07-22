@@ -1,7 +1,30 @@
 # Antispoof-dacon
 
 ---
-
+# Project Directory Structure
+```plaintext
+main/
+├── submit_code/
+│   ├── main.py
+│   ├── test.py
+│   └── *.py
+├── train/
+│   ├── real.ogg
+│   └── fake.ogg
+├── test/
+│   ├── Test_00001.ogg
+│   ├── Test_00002.ogg
+│   └── Test_00003.ogg
+├── no_voice_overlay/
+│   ├── combined_1.ogg
+│   ├── combined_3.ogg
+│   └── combined_27600.ogg
+└── novoice/
+    ├── ABJGMLHQ_accompaniment.ogg
+    ├── ABKEEJML_accompaniment.ogg
+    └── ESNQMTYC_accompaniment.ogg
+```
+---
 ## Training
 
 ### Supervised Fine-tuning
