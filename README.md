@@ -46,6 +46,11 @@ main/
 └── test_bert/
 ```
 ---
+## ㅇevelopment environment
+#### Ubuntu 20.04.5 LTS
+#### 8 A6000 GPUs
+
+---
 
 ## Training Dataset Preparation
 
