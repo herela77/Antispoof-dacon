@@ -6,29 +6,38 @@
 main/
 ├── ast_bigbatch/
 │   └── ast_bigbatch37_0.12741267722824998test_auc.pth
+│
 ├── ast_bigbatch_37epoch_unlabeld_thres0.9_withoutscheduler_afternew_sgd0.00001/
 │   └── 1_0.12760130451449958test_auc.pth
+│
 ├── submit_code/
 │   ├── main.py
 │   ├── test.py
 │   └── *.py
+│
 ├── train/
 │   ├── real.ogg
 │   └── fake.ogg
+│
 ├── test/
 │   ├── Test_00001.ogg
 │   ├── Test_00002.ogg
 │   └── Test_00003.ogg
+│
 ├── no_voice_overlay/
 │   ├── combined_1.ogg
 │   ├── combined_3.ogg
 │   └── combined_27600.ogg
+│
 └── novoice/
 │   ├── ABJGMLHQ_accompaniment.ogg
 │   ├── ABKEEJML_accompaniment.ogg
 │   └── ESNQMTYC_accompaniment.ogg
+│
 ├── test_silero/
+│
 ├── test_wav2vec2/
+│
 └── test_bert/
 ```
 ---
