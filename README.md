@@ -20,9 +20,12 @@ main/
 │   ├── combined_3.ogg
 │   └── combined_27600.ogg
 └── novoice/
-    ├── ABJGMLHQ_accompaniment.ogg
-    ├── ABKEEJML_accompaniment.ogg
-    └── ESNQMTYC_accompaniment.ogg
+│   ├── ABJGMLHQ_accompaniment.ogg
+│   ├── ABKEEJML_accompaniment.ogg
+│   └── ESNQMTYC_accompaniment.ogg
+├── test_silero/
+├── test_wav2vec2/
+└── test_bert/
 ```
 ---
 ## Training
