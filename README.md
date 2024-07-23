@@ -59,8 +59,8 @@ Sources of the models:
 - AST source: https://github.com/YuanGongND/ast
 
 ---
-## To install the required packages, please use the following command with the provided `requirements.txt` file:
-`pip install -r requirements.txt`
+## To install the required packages, please use the following command with the provided `requirements.txt` file
+``` pip install -r requirements.txt ```
 ---
 
 ## Training Dataset Preparation
