@@ -60,7 +60,9 @@ Sources of the models:
 
 ---
 ## To install the required packages, please use the following command with the provided `requirements.txt` file
-``` pip install -r requirements.txt ```
+``` 
+pip install -r requirements.txt
+```
 ---
 
 ## Training Dataset Preparation
