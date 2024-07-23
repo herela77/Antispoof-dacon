@@ -28,6 +28,13 @@ main/
 └── test_bert/
 ```
 ---
+##Training Dataset Preparation
+###To prepare the training dataset, follow these steps:
+
+-**novoice**: Execute the script `no_voice_maker.py`
+-**no_voice_overlay**: Execute the script `novoice_overlay.py`
+
+---
 ## Training
 
 ### Supervised Fine-tuning
