@@ -46,10 +46,17 @@ main/
 └── test_bert/
 ```
 ---
-## ㅇevelopment environment
+## development environment
 #### Ubuntu 20.04.5 LTS
 #### 8 A6000 GPUs
+---
+Sources of the models:
 
+- Noise extractor source: https://github.com/deezer/spleeter/blob/master/spleeter/separator.py
+- Silero source: https://github.com/snakers4/silero-vad
+- Wav2Vec2 source: https://huggingface.co/facebook/wav2vec2-base-960h
+- Wav2Vec2-BERT source: https://huggingface.co/tbkazakova/wav2vec-bert-2.0-even-pakendorf
+- AST source: https://github.com/YuanGongND/ast
 ---
 
 ## Training Dataset Preparation
