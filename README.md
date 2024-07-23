@@ -57,6 +57,10 @@ Sources of the models:
 - Wav2Vec2 source: https://huggingface.co/facebook/wav2vec2-base-960h
 - Wav2Vec2-BERT source: https://huggingface.co/tbkazakova/wav2vec-bert-2.0-even-pakendorf
 - AST source: https://github.com/YuanGongND/ast
+
+---
+## To install the required packages, please use the following command with the provided `requirements.txt` file:
+`pip install -r requirements.txt`
 ---
 
 ## Training Dataset Preparation
