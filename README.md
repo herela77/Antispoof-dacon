@@ -53,6 +53,7 @@ main/
 
 - **novoice**: Execute the script `no_voice_maker.py`
 - **no_voice_overlay**: Execute the script `novoice_overlay.py`
+-  **sample_audio**: Execute the script `make_sample_audio.py`
 
 ### You can also download the dataset and model weights from the following link: [Dataset and model Weight](https://drive.google.com/drive/folders/12Cmq278Q6p9a35BQ_TKXhV0cHouJCpF7?usp=drive_link)
 ---
